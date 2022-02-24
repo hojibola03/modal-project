@@ -181,13 +181,13 @@ main {
 Modal
 ===============
 */
-.hero {
+.box {
   min-height: 100vh;
   background: url("/img/hero.jpeg") center/cover no-repeat;
   display: grid;
   place-items: center;
 }
-.banner {
+.buttonbox {
   background: var(--clr-white);
   padding: 4rem 0;
   border-radius: var(--radius);
